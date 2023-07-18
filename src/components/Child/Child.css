@@ -1,0 +1,9 @@
+img {
+  width: 30%;
+  display: block;
+  cursor: pointer;
+}
+
+span {
+  font-size: 2rem;
+}
