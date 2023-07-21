@@ -22,7 +22,7 @@ export default function Parent() {
   return (
     <div>
       <Child name={name} pats={pats} handleBobsPats={handleBobsPats} />
-      <Child name={"Peter"} />
+      {/* <Child name={"Peter"} /> */}
     </div>
   );
 }
